@@ -1,5 +1,5 @@
 ﻿# 3 Joint Robotic Arm With Claw
-The project that I chose to build was the 3 joint robotic arm with claw and potentiometers. This robotic arm will function through the use of micro servo and potentiometers. This robotic arm will be able to hold different small objects through the claws and move via potentiometers. 
+The project that I chose to build was the 3 joint robotic arm with claw and potentiometers. This robotic arm will function through the use of micro servo and potentiometers. This robotic claw will be able to hold different small objects. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
