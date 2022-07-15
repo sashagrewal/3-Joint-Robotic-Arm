@@ -10,7 +10,7 @@ Hi, my name is Sasha! The project that I chose to build was the 3 joint robotic 
 # My project
 Below is a picture of my completed robotic arm. This picture shows the actual robotic arm as well as the circuit board that have the potentiometers which control the robotic arm. 
 
-<a href="https://ibb.co/D7Pn7pW"><img src="https://i.ibb.co/fCV7CvF/IMG-3598.jpg" alt="IMG-3598" border="0" height="400" width="280"></a>
+<a href="https://ibb.co/D7Pn7pW"><img src="https://i.ibb.co/fCV7CvF/IMG-3598.jpg" alt="IMG-3598" border="0" height="500" width="350"></a>
 
   
 # Final Milestone
