@@ -5,7 +5,7 @@ The project that I chose to build was the 3 joint robotic arm with claw and pote
 |:--:|:--:|:--:|:--:|
 | Sasha | Marin Academy | Biomedical Engineering | Incoming Senior
 
-https://ibb.co/D7Pn7pW
+<a href="https://ibb.co/D7Pn7pW"><img src="https://i.ibb.co/fCV7CvF/IMG-3598.jpg" alt="IMG-3598" border="0"></a>
 
 ![Headstone Image](https://github.com/BlueStampEng/BSE_Template_Portfolio/blob/4655d8c4b2f1d0fa5912511d0b39542520b9f88e/branding/BlueStamp-Engineering-Logo-White.png)
   
