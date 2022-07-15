@@ -5,9 +5,8 @@ The project that I chose to build was the 3 joint robotic arm with claw and pote
 |:--:|:--:|:--:|:--:|
 | Sasha | Marin Academy | Biomedical Engineering | Incoming Senior
 
-<a href="https://ibb.co/D7Pn7pW"><img src="https://i.ibb.co/fCV7CvF/IMG-3598.jpg" alt="IMG-3598" border="0"></a>
+<a href="https://ibb.co/D7Pn7pW"><img src="https://i.ibb.co/fCV7CvF/IMG-3598.jpg" alt="IMG-3598" border="0" height="20" width="14"></a>
 
-![Headstone Image](https://github.com/BlueStampEng/BSE_Template_Portfolio/blob/4655d8c4b2f1d0fa5912511d0b39542520b9f88e/branding/BlueStamp-Engineering-Logo-White.png)
   
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
