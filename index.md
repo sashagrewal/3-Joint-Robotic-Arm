@@ -1,7 +1,7 @@
 ﻿# 3 Joint Robotic Arm With Claw
 Hi, my name is Sasha! The project that I chose to build was the 3 joint robotic arm with claw and potentiometers. This robotic arm will function through the use of micro servo and potentiometers. This robotic claw will be able to hold different small objects. 
 
-<a href="https://ibb.co/9vMxJqc"><img src="https://i.ibb.co/4fQbcjK/IMG-3397.jpg" alt="IMG-3397" border="0" height="320" width="400"></a>
+<a href="https://ibb.co/9vMxJqc"><img src="https://i.ibb.co/4fQbcjK/IMG-3397.jpg" alt="IMG-3397" border="0" height="480" width="600"></a>
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -10,8 +10,7 @@ Hi, my name is Sasha! The project that I chose to build was the 3 joint robotic 
 # My project
 Below is a picture of my completed robotic arm. This picture shows the actual robotic arm as well as the circuit board that have the potentiometers which control the robotic arm. 
 
-<a href="https://ibb.co/D7Pn7pW"><img src="https://i.ibb.co/fCV7CvF/IMG-3598.jpg" alt="IMG-3598" border="0" height="500" width="350"></a>
-
+<a href="https://ibb.co/k6v3M14"><img src="https://i.ibb.co/rfNbvsx/IMG-3598.jpg" alt="IMG-3598" border="0"></a>
   
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
@@ -30,3 +29,7 @@ My first milestone was connecting a micro servo and potentiometer controlled via
 
 
 [![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1657298926/video_to_markdown/images/youtube--COM9trcONng-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=COM9trcONng "First Milestone"){:target="_blank" rel="noopener"}
+
+# Robotic Arm Code 
+
+# Schematic
