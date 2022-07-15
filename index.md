@@ -5,7 +5,7 @@ The project that I chose to build was the 3 joint robotic arm with claw and pote
 |:--:|:--:|:--:|:--:|
 | Sasha | Marin Academy | Biomedical Engineering | Incoming Senior
 
-<a href="https://ibb.co/D7Pn7pW"><img src="https://i.ibb.co/fCV7CvF/IMG-3598.jpg" alt="IMG-3598" border="0" height="20" width="14"></a>
+<a href="https://ibb.co/D7Pn7pW"><img src="https://i.ibb.co/fCV7CvF/IMG-3598.jpg" alt="IMG-3598" border="0" height="100" width="70"></a>
 
   
 # Final Milestone
