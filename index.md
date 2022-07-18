@@ -32,9 +32,11 @@ My first milestone was connecting a micro servo and potentiometer controlled via
 
 # Robotic Arm Code 
 
-Below is a picture of my code I used to control the robotic arm. This code is through arduino and it controls both the micro servos in the arm and the potentiometers controlling the micro servos. 
+Below are pictures of my code I used to control the robotic arm. This code is through arduino and it controls both the micro servos in the arm and the potentiometers controlling the micro servos. 
 
-<a href="https://ibb.co/c2ccQ4n"><img src="https://i.ibb.co/zPhhZqv/Screen-Shot-2022-07-18-at-9-27-45-AM.png" alt="Screen-Shot-2022-07-18-at-9-27-45-AM" border="0" height="400" width="800"></a>
+<a href="https://ibb.co/YcSbrZ2"><img src="https://i.ibb.co/48LJQdW/Screen-Shot-2022-07-18-at-9-38-23-AM.png" alt="Screen-Shot-2022-07-18-at-9-38-23-AM" border="0"></a>
+
+<a href="https://ibb.co/D59R9bC"><img src="https://i.ibb.co/xJ171sj/Screen-Shot-2022-07-18-at-9-38-31-AM.png" alt="Screen-Shot-2022-07-18-at-9-38-31-AM" border="0"></a>
 
 # Schematic
 
