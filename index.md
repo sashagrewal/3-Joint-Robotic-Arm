@@ -29,6 +29,14 @@ My first milestone was connecting a micro servo and potentiometer controlled via
 
 [![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1657298926/video_to_markdown/images/youtube--COM9trcONng-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=COM9trcONng "First Milestone"){:target="_blank" rel="noopener"}
 
+# Bill of Materials 
+
+This picture is a spreadsheet containing all the items needed for milestone one and the robotic arm. It contains the item, quanitity, price and where to buy the item.  
+
+<a href="https://ibb.co/kDRqR6h"><img src="https://i.ibb.co/Zgncn1h/Screen-Shot-2022-07-20-at-11-06-22-AM.png" alt="Screen-Shot-2022-07-20-at-11-06-22-AM" border="0"></a>
+
+# Schematics
+
 # Robotic Arm Code 
 
 Below is a picture of my code I used to control the robotic arm. This code is through arduino and it controls both the micro servos in the arm and the potentiometers controlling the micro servos. 
@@ -37,9 +45,7 @@ Below is a picture of my code I used to control the robotic arm. This code is th
 
 <a href="https://ibb.co/D59R9bC"><img src="https://i.ibb.co/xJ171sj/Screen-Shot-2022-07-18-at-9-38-31-AM.png" alt="Screen-Shot-2022-07-18-at-9-38-31-AM" border="0"></a>
 
-# Bill of Materials 
 
-# Schematics
 
 
 
