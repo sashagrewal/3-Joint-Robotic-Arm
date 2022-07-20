@@ -38,5 +38,5 @@ Below is a picture of my code I used to control the robotic arm. This code is th
 
 <a href="https://ibb.co/D59R9bC"><img src="https://i.ibb.co/xJ171sj/Screen-Shot-2022-07-18-at-9-38-31-AM.png" alt="Screen-Shot-2022-07-18-at-9-38-31-AM" border="0"></a>
 
-# Schematic
+
 
