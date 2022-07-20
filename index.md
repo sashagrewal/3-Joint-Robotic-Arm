@@ -42,12 +42,67 @@ This is a schematic of the adeept circuit board used for my robotic arm. This bo
 
 # Robotic Arm Code 
 
-Below is a picture of my code I used to control the robotic arm. This code is through arduino and it controls both the micro servos in the arm and the potentiometers controlling the micro servos. 
+Below is my code I used to control the original robotic arm. This code is through arduino and it controls both the micro servos in the arm and the potentiometers controlling the micro servos. 
 
-<a href="https://ibb.co/YcSbrZ2"><img src="https://i.ibb.co/48LJQdW/Screen-Shot-2022-07-18-at-9-38-23-AM.png" alt="Screen-Shot-2022-07-18-at-9-38-23-AM" border="0"></a>
+``` 
+#include <Servo.h>
+Servo servo1;//create servo object to control a servo
+Servo servo2;
+Servo servo3;
+Servo servo4;
+Servo servo5;
 
-<a href="https://ibb.co/D59R9bC"><img src="https://i.ibb.co/xJ171sj/Screen-Shot-2022-07-18-at-9-38-31-AM.png" alt="Screen-Shot-2022-07-18-at-9-38-31-AM" border="0"></a>
+int dataServo1 = 90; 
+int dataServo2 = 90; 
+int dataServo3 = 90; 
+int dataServo4 = 90; 
+int dataServo5 = 90; 
 
+float dirServo1Offset = 0;   
+float dirServo2Offset = 0;  
+float dirServo3Offset = 0;   
+float dirServo4Offset = 0;    
+float dirServo5Offset = 0;    
+int val1;
+int val2;
+int val3;
+int val4;
+int val5;
+void setup()
+{
+  servo1.attach(9);
+  servo2.attach(6);
+  servo3.attach(5);
+  servo4.attach(3);
+  servo5.attach(11);
+  
+  servo1.write(dataServo1+dirServo1Offset); 
+  servo2.write(dataServo2+dirServo2Offset); 
+  servo3.write(dataServo3+dirServo3Offset);
+  servo4.write(dataServo4+dirServo4Offset); 
+  servo5.write(dataServo5+dirServo5Offset);
+}
+void loop()
+{
+  servo1.write(dataServo1+dirServo1Offset);//goes to dataServo1 degrees 
+  servo2.write(dataServo2+dirServo2Offset);
+  servo3.write(dataServo3+dirServo3Offset);
+  servo4.write(dataServo4+dirServo4Offset);
+  servo5.write(dataServo5+dirServo5Offset);
+  
+  val1 = map(analogRead(0), 0, 1023, 0, 180);  
+  val2 = map(analogRead(1), 0, 1023, 0, 180);  
+  val3 = map(analogRead(2), 0, 1023, 0, 180);  
+  val4 = map(analogRead(3), 0, 1023, 0, 180);
+  val5 = map(analogRead(6), 0, 1023, 35, 90);  
+ 
+  dataServo1 = val1;
+  dataServo2 = val2;
+  dataServo3 = val3;
+  dataServo4 = val4;
+  dataServo5 = val5;
+  delay(50);//wait for 0.05second
+} ```
 
 
 
