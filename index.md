@@ -13,13 +13,12 @@ Below is a picture of my completed robotic arm. This picture shows the actual ro
 <a href="https://ibb.co/k6v3M14"><img src="https://i.ibb.co/rfNbvsx/IMG-3598.jpg" alt="IMG-3598" border="0"></a>
   
 # Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
+My final milestone showcases my whole project. In this video I demonstrate both the regular robotic arm functioning as well as the robotic arm with modifications that I added. The modification that I added to the robotic arm was using GUI or graphic user interface to control the arm. This means that I can control my robotic arm using a program on my computer instead of the potentiometers. To do this I used python and arduino to control the robotic arm via GUI. During this one challenge thatI faced was the python interface not working properly. To solve this problem I went through and checked all my connections and restarted the program a couple times and I was able to get it working again. Throughout this project I experienced different challenges but I was able to work through them and I gained great probelm solving skills from the challenges. 
 
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
+[![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1658339257/video_to_markdown/images/youtube--r5V2tHF2FLQ-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/r5V2tHF2FLQ "Third Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
-My second milestone was building the actual robotic arm. For this I used all the pieces in the kit and put together the robotic arm. This arm is controlled by potentiometers and servos so I had to make sure all the connections were properly working. Another key component in building this arm was the arduino code being sent to the arm. In this code it established the servos and the rotation of each servo. The code also outlined the connections between the potentiometer and servo so the potentiometer could correctly control the servos. For this milestone one of the challenges that I faced was the servo was not properly functioning and rotating. This was a big challenge but after carefully checking my connections and making sure all the actual pieces were properly connected I was able toget the arm to properly work. 
-My second milestone was building the actual robotic arm. For this I used all the pieces in the kit and put together the robotic arm. This arm is controlled by potentiometers and servos so I had to make sure all the connections were properly working. Another key component in building this arm was the arduino code being sent to the arm. In this code it established the servos and the rotation of each servo. The code also outlined the connections between the potentiometer and servo so the potentiometer could correctly control the servos. For this milestone one of the challenges that I faced was the servo was not properly functioning and rotating. This was a 
+My second milestone was building the actual robotic arm. For this I used all the pieces in the kit and put together the robotic arm. This arm is controlled by potentiometers and servos so I had to make sure all the connections were properly working. Another key component in building this arm was the arduino code being sent to the arm. In this code it established the servos and the rotation of each servo. The code also outlined the connections between the potentiometer and servo so the potentiometer could correctly control the servos. For this milestone one of the challenges that I faced was the servo was not properly functioning and rotating. This was a big challenge but after carefully checking my connections and making sure all the actual pieces were properly connected I was able to get the arm to properly work. 
 
 [![Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1657906263/video_to_markdown/images/youtube--Gr-YLulEjl0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/Gr-YLulEjl0 "Second Milestone"){:target="_blank" rel="noopener"}
 
@@ -37,6 +36,10 @@ Below is a picture of my code I used to control the robotic arm. This code is th
 <a href="https://ibb.co/YcSbrZ2"><img src="https://i.ibb.co/48LJQdW/Screen-Shot-2022-07-18-at-9-38-23-AM.png" alt="Screen-Shot-2022-07-18-at-9-38-23-AM" border="0"></a>
 
 <a href="https://ibb.co/D59R9bC"><img src="https://i.ibb.co/xJ171sj/Screen-Shot-2022-07-18-at-9-38-31-AM.png" alt="Screen-Shot-2022-07-18-at-9-38-31-AM" border="0"></a>
+
+# Bill of Materials 
+
+# Schematics
 
 
 
