@@ -37,6 +37,9 @@ This picture is a spreadsheet containing all the items needed for milestone one 
 
 # Schematics
 
+This is a schematic of the adeept circuit board used for my robotic arm. This board connects to my computer which contains the code for the arm. This board also has the potentiometers that control the robotic arm. 
+<a href="https://ibb.co/wcMBbYp"><img src="https://i.ibb.co/2ZgWL5c/c14cded516.jpg" alt="c14cded516" border="0"></a>
+
 # Robotic Arm Code 
 
 Below is a picture of my code I used to control the robotic arm. This code is through arduino and it controls both the micro servos in the arm and the potentiometers controlling the micro servos. 
