@@ -1,7 +1,9 @@
 ﻿# 3 Joint Robotic Arm With Claw
 Hi, my name is Sasha! The project that I chose to build was the 3 joint robotic arm with claw and potentiometers. This robotic arm will function through the use of micro servo and potentiometers. This robotic claw will be able to hold different small objects. 
 
-<a href="https://ibb.co/9vMxJqc"><img src="https://i.ibb.co/4fQbcjK/IMG-3397.jpg" alt="IMG-3397" border="0" height="720" width="900" align="center"></a>
+<p align="center">
+<a href="https://ibb.co/9vMxJqc"><img src="https://i.ibb.co/4fQbcjK/IMG-3397.jpg" alt="IMG-3397" border="0" height="720" width="900"></a>
+</p>
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
