@@ -1,13 +1,17 @@
 ﻿# 3 Joint Robotic Arm With Claw
 Hi, my name is Sasha! The project that I chose to build was the 3 joint robotic arm with claw and potentiometers. This robotic arm will function through the use of micro servo and potentiometers. This robotic claw will be able to hold different small objects. 
 
-<a href="https://ibb.co/9vMxJqc"><img src="https://i.ibb.co/4fQbcjK/IMG-3397.jpg" alt="IMG-3397" border="0" height="450" width="570"></a>
+<a href="https://ibb.co/9vMxJqc"><img src="https://i.ibb.co/4fQbcjK/IMG-3397.jpg" alt="IMG-3397" border="0" height="550" width="720"></a>
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Sasha | Marin Academy | Biomedical Engineering | Incoming Senior
 
 # My project
+
+Below is the link to my presentation summarizing the whole project. 
+[Presentation Link](https://docs.google.com/presentation/d/1Ay2zMV-2khKwlQVXBiGZHMqWVi_KjbIrbrr7re-toHA/edit?usp=sharing)
+
 Below is a picture of my completed robotic arm. This picture shows the actual robotic arm as well as the circuit board that have the potentiometers which control the robotic arm. 
 
 <a href="https://ibb.co/k6v3M14"><img src="https://i.ibb.co/rfNbvsx/IMG-3598.jpg" alt="IMG-3598" border="0"></a>
@@ -48,6 +52,10 @@ This is a table containing all the items needed for milestone one and the roboti
 
 This is a schematic of the adeept circuit board used for my robotic arm. This board connects to my computer which contains the code for the arm. This board also has the potentiometers that control the robotic arm. 
 <a href="https://ibb.co/wcMBbYp"><img src="https://i.ibb.co/2ZgWL5c/c14cded516.jpg" alt="c14cded516" border="0"></a>
+
+# How to Recreate the Project
+
+For this project one really important thing to keep in mind before assembling the robotic arm is testing all the micro servos. Sometimes the micro servos don't work or there motors die and it can be really challenging to replace them when the robotic arm is already assembled. In order to check the servo you can use the a simple set up with potentiometers, arduino and micro servo like I built in my first milestone to make sure all the micro servos work. This simple extra task can lead to a smoother building process and a more successful robotic arm.
 
 
 # Robotic Arm Code 
@@ -252,9 +260,6 @@ memset(line, 0, sizeof(line));
 }
 ```
 
-# What To Know For This Project 
-
-For this project one really important thing to keep in mind before assembling the robotic arm is testing all the micro servos. Sometimes the micro servos don't work or there motors die and it can be really challenging to replace them when the robotic arm is already assembled. In order to check the servo you can use the a simple set up with potentiometers, arduino and micro servo like I built in my first milestone to make sure all the micro servos work. This simple extra task can lead to a smoother building process and a more successful robotic arm.
 
 
 
