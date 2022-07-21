@@ -31,9 +31,18 @@ My first milestone was connecting a micro servo and potentiometer controlled via
 
 # Bill of Materials 
 
-This picture is a spreadsheet containing all the items needed for milestone one and the robotic arm. It contains the item, quanitity, price and where to buy the item.  
+This is a table containing all the items needed for milestone one and the robotic arm. It contains the item, quanitity, price and where to buy the item.  
 
-<a href="https://ibb.co/kDRqR6h"><img src="https://i.ibb.co/Zgncn1h/Screen-Shot-2022-07-20-at-11-06-22-AM.png" alt="Screen-Shot-2022-07-20-at-11-06-22-AM" border="0"></a>
+| Item | Qty | Price | Where to Buy |
+| ------------- | ------------- | ------------- | ------------- |
+| Adeept Robotic Arm Kit  | 1  | $64.99  | adeept.com/adeept-arduino-compatible-diy-5-dof-robotic-arm-kit-for-arduino-uno-r3-steam-robot-arm-kit-with-arduino-and-processing-code_p0118.html  |
+| Breadboard  | 1 |  $6.75  | https://www.amazon.com/BB400-Solderless-Plug-BreadBoard-tie-points/dp/B0040Z1ERO |
+| Potentiometer  | 1 | $1.85  |  https://www.tubesandmore.com/products/potentiometer-alpha-linear-38-bushing  |
+| Micro Servo | 1 | $5.95 | https://www.adafruit.com/product/169  |
+| Jumper Wires  | 6 | 10¢/wire  |  https://www.amazon.com/Breadboard-Jumper-Wire-75pcs-pack/dp/B0040DEI9M |
+| Arduino Uno Board  | 1  | $27.60  | https://store-usa.arduino.cc/products/arduino-uno-rev3?selectedStore=us  |
+| Arduino IDE  | 1  | $0  | https://www.arduino.cc/en/software/ |
+
 
 # Schematics
 
