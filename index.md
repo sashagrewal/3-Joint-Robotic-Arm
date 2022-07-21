@@ -35,7 +35,7 @@ This is a table containing all the items needed for milestone one and the roboti
 
 | Item | Qty | Price | Where to Buy |
 | ------------- | ------------- | ------------- | ------------- |
-| Adeept Robotic Arm Kit  | 1  | $64.99  | adeept.com/adeept-arduino-compatible-diy-5-dof-robotic-arm-kit-for-arduino-uno-r3-steam-robot-arm-kit-with-arduino-and-processing-code_p0118.html  |
+| Adeept Robotic Arm Kit  | 1  | $64.99  | https://www.amazon.com/dp/B087R8DLG6 |
 | Breadboard  | 1 |  $6.75  | https://www.amazon.com/BB400-Solderless-Plug-BreadBoard-tie-points/dp/B0040Z1ERO |
 | Potentiometer  | 1 | $1.85  |  https://www.tubesandmore.com/products/potentiometer-alpha-linear-38-bushing  |
 | Micro Servo | 1 | $5.95 | https://www.adafruit.com/product/169  |
