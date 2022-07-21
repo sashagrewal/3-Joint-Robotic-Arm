@@ -1189,7 +1189,6 @@ void nine()  //Define those figures 9 cathode pin switch
 
 # What To Know For This Project 
 
-
 For this project one really important thing to keep in mind before assembling the robotic arm is testing all the micro servos. Sometimes the micro servos don't work or there motors die and it can be really challenging to replace them when the robotic arm is already assembled. In order to check the servo you can use the a simple set up with potentiometers, arduino and micro servo like I built in my first milestone to make sure all the micro servos work. This simple extra task can lead to a smoother building process and a more successful robotic arm.
 
 
