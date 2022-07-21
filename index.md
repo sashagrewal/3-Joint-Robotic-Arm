@@ -49,6 +49,16 @@ This is a table containing all the items needed for milestone one and the roboti
 This is a schematic of the adeept circuit board used for my robotic arm. This board connects to my computer which contains the code for the arm. This board also has the potentiometers that control the robotic arm. 
 <a href="https://ibb.co/wcMBbYp"><img src="https://i.ibb.co/2ZgWL5c/c14cded516.jpg" alt="c14cded516" border="0"></a>
 
+
+# What To Know For This Project 
+
+```
+For this project one really important thing to keep in mind before assembling the robotic arm is testing all the micro servos. 
+Sometimes the micro servos don't work or there motors die and it can be really challenging to replace them when the robotic arm is already assembled. 
+In order to check the servo you can use the a simple set up with potentiometers, arduino and micro servo like I built in my first milestone to make sure all the micro servos work. 
+This simple extra task can lead to a smoother building process and a more successful robotic arm.
+```
+
 # Robotic Arm Code 
 
 Below is my code I used to control the original robotic arm. This code is through arduino and it controls both the micro servos in the arm and the potentiometers controlling the micro servos. 
@@ -1187,9 +1197,6 @@ void nine()  //Define those figures 9 cathode pin switch
 }
 ```
 
-# What To Know For This Project 
-
-For this project one really important thing to keep in mind before assembling the robotic arm is testing all the micro servos. Sometimes the micro servos don't work or there motors die and it can be really challenging to replace them when the robotic arm is already assembled. In order to check the servo you can use the a simple set up with potentiometers, arduino and micro servo like I built in my first milestone to make sure all the micro servos work. This simple extra task can lead to a smoother building process and a more successful robotic arm.
 
 
 
