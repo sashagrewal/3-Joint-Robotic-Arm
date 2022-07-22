@@ -5,11 +5,9 @@ Hi, my name is Sasha! The project that I chose to build was the 3 joint robotic 
 <a href="https://ibb.co/9vMxJqc"><img src="https://i.ibb.co/4fQbcjK/IMG-3397.jpg" alt="IMG-3397" border="0" height="400" width="500"></a>
 </p>
 
-<p align="center">
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Sasha | Marin Academy | Biomedical Engineering | Incoming Senior
-</p>
 
 # My project
 
@@ -19,7 +17,7 @@ Below is the link to my presentation summarizing the whole project.
 
 Below is a picture of my completed robotic arm. This picture shows the actual robotic arm as well as the circuit board that have the potentiometers which control the robotic arm. 
 
-<p align="center"?\>
+<p align="center"\>
 <a href="https://ibb.co/k6v3M14"><img src="https://i.ibb.co/rfNbvsx/IMG-3598.jpg" alt="IMG-3598" border="0"></a>
 </p>
   
