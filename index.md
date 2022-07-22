@@ -5,9 +5,11 @@ Hi, my name is Sasha! The project that I chose to build was the 3 joint robotic 
 <a href="https://ibb.co/9vMxJqc"><img src="https://i.ibb.co/4fQbcjK/IMG-3397.jpg" alt="IMG-3397" border="0" height="400" width="500"></a>
 </p>
 
+<p align="center">
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Sasha | Marin Academy | Biomedical Engineering | Incoming Senior
+</p>
 
 # My project
 
