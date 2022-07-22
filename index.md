@@ -55,7 +55,9 @@ This is a table containing all the items needed for milestone one and the roboti
 
 This is a schematic of the adeept circuit board used for my robotic arm. This board connects to my computer which contains the code for the arm. This board also has the potentiometers that control the robotic arm. 
 
+<p align="center">
 <a href="https://ibb.co/wcMBbYp"><img src="https://i.ibb.co/2ZgWL5c/c14cded516.jpg" alt="c14cded516" border="0"></a>
+</p>
 
 # How to Recreate the Project
 
