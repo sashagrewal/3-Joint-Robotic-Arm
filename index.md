@@ -17,7 +17,7 @@ Below is the link to my presentation summarizing the whole project.
 
 Below is a picture of my completed robotic arm. This picture shows the actual robotic arm as well as the circuit board that have the potentiometers which control the robotic arm. 
 
-<p align="center"\>
+<p align="center">
 <a href="https://ibb.co/k6v3M14"><img src="https://i.ibb.co/rfNbvsx/IMG-3598.jpg" alt="IMG-3598" border="0"></a>
 </p>
   
