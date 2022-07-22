@@ -17,7 +17,9 @@ Below is the link to my presentation summarizing the whole project.
 
 Below is a picture of my completed robotic arm. This picture shows the actual robotic arm as well as the circuit board that have the potentiometers which control the robotic arm. 
 
+<p align="center"?\>
 <a href="https://ibb.co/k6v3M14"><img src="https://i.ibb.co/rfNbvsx/IMG-3598.jpg" alt="IMG-3598" border="0"></a>
+</p>
   
 # Final Milestone
 My final milestone showcases my whole project. In this video I demonstrate both the regular robotic arm functioning as well as the robotic arm with modifications that I added. The modification that I added to the robotic arm was using GUI or graphic user interface to control the arm. This means that I can control my robotic arm using a program on my computer instead of the potentiometers. To do this I used python and arduino to control the robotic arm via GUI. During this one challenge thatI faced was the python interface not working properly. To solve this problem I went through and checked all my connections and restarted the program a couple times and I was able to get it working again. Throughout this project I experienced different challenges but I was able to work through them and I gained great probelm solving skills from the challenges. 
