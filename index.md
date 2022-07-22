@@ -13,6 +13,8 @@ Hi, my name is Sasha! The project that I chose to build was the 3 joint robotic 
 
 Below is the link to my presentation summarizing the whole project. 
 
+{google_docs}https://docs.google.com/presentation/d/1Ay2zMV-2khKwlQVXBiGZHMqWVi_KjbIrbrr7re-toHA/edit?usp=sharing{/google_docs}
+
 [3 Joint Robotic Arm Presentation](https://docs.google.com/presentation/d/1Ay2zMV-2khKwlQVXBiGZHMqWVi_KjbIrbrr7re-toHA/edit?usp=sharing)
 
 Below is a picture of my completed robotic arm. This picture shows the actual robotic arm as well as the circuit board that have the potentiometers which control the robotic arm. 
